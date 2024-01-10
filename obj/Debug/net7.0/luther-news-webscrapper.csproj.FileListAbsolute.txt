@@ -1,0 +1,17 @@
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\bin\Debug\net7.0\luther-news-webscrapper.exe
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\bin\Debug\net7.0\luther-news-webscrapper.deps.json
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\bin\Debug\net7.0\luther-news-webscrapper.runtimeconfig.json
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\bin\Debug\net7.0\luther-news-webscrapper.dll
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\bin\Debug\net7.0\luther-news-webscrapper.pdb
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.csproj.AssemblyReference.cache
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.AssemblyInfoInputs.cache
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.AssemblyInfo.cs
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.csproj.CopyComplete
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.dll
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\refint\luther-news-webscrapper.dll
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.pdb
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\luther-news-webscrapper.genruntimeconfig.cache
+C:\Users\Vincent\Dropbox\My PC (LAPTOP-V8C90KF3)\Desktop\C#\skol-norse-news\obj\Debug\net7.0\ref\luther-news-webscrapper.dll

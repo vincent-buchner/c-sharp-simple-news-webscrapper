@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FzqoT3XDrWyY/Tdoj7yskisyw97aYwEky7BNhM4c4jpTtlRnb80lelLcQy3Nb1ZKCTw2WJ3qszfrDXbONQJRQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vincent\\Dropbox\\My PC (LAPTOP-V8C90KF3)\\Desktop\\C#\\skol-norse-news\\luther-news-webscrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vincent\\.nuget\\packages\\htmlagilitypack\\1.11.57\\htmlagilitypack.1.11.57.nupkg.sha512"
+  ],
+  "logs": []
+}
